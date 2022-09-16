@@ -1,0 +1,15 @@
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Entities\bin\Release\net5.0\Ecom.Entities.deps.json
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Entities\bin\Release\net5.0\Ecom.Entities.dll
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Entities\bin\Release\net5.0\ref\Ecom.Entities.dll
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Entities\bin\Release\net5.0\Ecom.Entities.pdb
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Entities\bin\Release\net5.0\Ecom.Core.dll
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Entities\bin\Release\net5.0\Ecom.Core.pdb
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Entities\obj\Release\net5.0\Ecom.Entities.csproj.AssemblyReference.cache
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Entities\obj\Release\net5.0\Ecom.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Entities\obj\Release\net5.0\Ecom.Entities.AssemblyInfoInputs.cache
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Entities\obj\Release\net5.0\Ecom.Entities.AssemblyInfo.cs
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Entities\obj\Release\net5.0\Ecom.Entities.csproj.CoreCompileInputs.cache
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Entities\obj\Release\net5.0\Ecom.Entities.csproj.CopyComplete
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Entities\obj\Release\net5.0\Ecom.Entities.dll
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Entities\obj\Release\net5.0\ref\Ecom.Entities.dll
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Entities\obj\Release\net5.0\Ecom.Entities.pdb

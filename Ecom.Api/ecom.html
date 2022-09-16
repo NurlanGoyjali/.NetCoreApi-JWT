@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+  <title>Ecom</title>
+</head>
+<body>
+
+  <button id="on" v-on:click="send"> <a href="https://localhost:5001/user/cred?value=[number]"> [username] tıkla</a> </button>
+
+
+
+
+
+</body>
+</html>
+
+
+<script>
+
+  var app = new Vue({
+    el :"#on",
+    data: {
+      message: ""
+    },
+    methods:
+    {
+      send: function () {
+        console.log("tiklandi")
+
+        var requestOptions =  
+          method: 'GET',
+          
+        };
+
+      fetch("https://localhost:5001/user/cred?value=[number]", requestOptions)
+      }
+
+    }
+
+  });
+
+
+</script>

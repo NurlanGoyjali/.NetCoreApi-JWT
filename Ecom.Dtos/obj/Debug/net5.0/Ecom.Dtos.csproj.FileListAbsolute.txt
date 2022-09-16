@@ -1,0 +1,17 @@
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Dtos\bin\Debug\net5.0\Ecom.Dtos.deps.json
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Dtos\bin\Debug\net5.0\Ecom.Dtos.dll
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Dtos\bin\Debug\net5.0\ref\Ecom.Dtos.dll
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Dtos\bin\Debug\net5.0\Ecom.Dtos.pdb
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Dtos\bin\Debug\net5.0\Ecom.Core.dll
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Dtos\bin\Debug\net5.0\Ecom.Entities.dll
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Dtos\bin\Debug\net5.0\Ecom.Entities.pdb
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Dtos\bin\Debug\net5.0\Ecom.Core.pdb
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Dtos\obj\Debug\net5.0\Ecom.Dtos.csproj.AssemblyReference.cache
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Dtos\obj\Debug\net5.0\Ecom.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Dtos\obj\Debug\net5.0\Ecom.Dtos.AssemblyInfoInputs.cache
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Dtos\obj\Debug\net5.0\Ecom.Dtos.AssemblyInfo.cs
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Dtos\obj\Debug\net5.0\Ecom.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Dtos\obj\Debug\net5.0\Ecom.Dtos.csproj.CopyComplete
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Dtos\obj\Debug\net5.0\Ecom.Dtos.dll
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Dtos\obj\Debug\net5.0\ref\Ecom.Dtos.dll
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.Dtos\obj\Debug\net5.0\Ecom.Dtos.pdb

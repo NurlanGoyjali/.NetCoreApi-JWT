@@ -1,0 +1,17 @@
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.DataAccess\bin\Release\net5.0\Ecom.DataAccess.deps.json
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.DataAccess\bin\Release\net5.0\Ecom.DataAccess.dll
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.DataAccess\bin\Release\net5.0\ref\Ecom.DataAccess.dll
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.DataAccess\bin\Release\net5.0\Ecom.DataAccess.pdb
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.DataAccess\bin\Release\net5.0\Ecom.Core.dll
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.DataAccess\bin\Release\net5.0\Ecom.Entities.dll
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.DataAccess\bin\Release\net5.0\Ecom.Core.pdb
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.DataAccess\bin\Release\net5.0\Ecom.Entities.pdb
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.DataAccess\obj\Release\net5.0\Ecom.DataAccess.csproj.AssemblyReference.cache
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.DataAccess\obj\Release\net5.0\Ecom.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.DataAccess\obj\Release\net5.0\Ecom.DataAccess.AssemblyInfoInputs.cache
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.DataAccess\obj\Release\net5.0\Ecom.DataAccess.AssemblyInfo.cs
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.DataAccess\obj\Release\net5.0\Ecom.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.DataAccess\obj\Release\net5.0\Ecom.DataAccess.csproj.CopyComplete
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.DataAccess\obj\Release\net5.0\Ecom.DataAccess.dll
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.DataAccess\obj\Release\net5.0\ref\Ecom.DataAccess.dll
+C:\Users\NorthWind\Documents\MyProjecs\VisualStudioPojects\Ecom\Ecom.DataAccess\obj\Release\net5.0\Ecom.DataAccess.pdb
