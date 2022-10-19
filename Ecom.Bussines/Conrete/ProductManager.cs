@@ -51,7 +51,7 @@ namespace Ecom.Bussines.Conrete
      {
       var data = new Buy();
       var realProduct = Get(product.Id);
-      if (MyUser.Roleid == 1) // 3 e değişmesi lazım
+      if (MyUser.Roleid == 1) 
       {
         if (product.Quantity > realProduct.Stock)
         {
